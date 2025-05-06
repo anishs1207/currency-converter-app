@@ -1,6 +1,7 @@
 # Currency Converter - React App
 
 - This is a simple currency converter built with React. It allows users to convert amounts between different currencies using real-time exchange rates.
+- Check it out at: https://currency-converter-pi-lime.vercel.app/
 
 # Features:
 1. Real-time Conversion: Get up-to-date exchange rates for accurate conversions.
